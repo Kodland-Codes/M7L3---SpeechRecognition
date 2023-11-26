@@ -10,6 +10,7 @@ https://git-scm.com/download/mac linkini açıp `Click here to download` linkine
 #### Linux/Unix kullananlar için:
 https://git-scm.com/download/linux linkini açıp `Click here to download` linkine tıklayın.
 
+Bilgisayarınıza kurarken çıkan pencerelerin hepsine `Next` diyerek devam edin.
 ## Projenizi kaydetmek istediğiniz klasöre gitmek:
 1-Terminalde projenizi kaydetmek istediğiniz yere gidiniz
 İşinize yarayan komutlar
