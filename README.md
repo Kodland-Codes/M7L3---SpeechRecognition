@@ -46,6 +46,14 @@ pip install -r requirements.txt
 ```
 
 ### Windows kullananlar için: 
+PowerShell'i yönetici olarak çalıştırıp bu komutu girip entere tıklayınız:
+```
+set-executionpolicy remotesigned
+```
+Size onaylamanız için bir soru soracak, büyük `A` harfini yazıp enter'e tıklayın.
+
+Şimdi VSCode terminalinde bunları yazıp enter'e tıklayın
+
 ```
 venv\Scripts\activate
 pip install -r requirements.txt
