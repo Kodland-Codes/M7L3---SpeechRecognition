@@ -67,7 +67,7 @@ pip install -r requirements.txt
 NOT: VScode terminalinde projenin klasöründe olduğunuzdan ve doğru sanal ortamı kullandığınızdan emin olunuz.
 Bu konmutu VSCode terminalinde yazarak projeyi çalıştırabilirsiniz:
 ```
-python main.py
+python speech.py
 ```
 
 ### Yöntem 2: VScode çalıştır butonundan
