@@ -1,7 +1,14 @@
-# m7l3
+# M7L3 SpeechRecognition Kütüphanesi
 
-# m8l1-Discord Botu
-
+## GitBash İndirmek
+1- Bu Github deposunu local'e yani bilgisayarınıza indirebilmek için Git Bash programına ihtiyahıcınız var.
+Bu linke tıklayarak indirebilirsiniz:
+#### Windows kullananlar için:
+https://git-scm.com/download/win
+#### MacOS kullananlar için:
+https://git-scm.com/download/mac
+#### Linux/Unix kullananlar için:
+[https://git-scm.com/download/mac](https://git-scm.com/download/linux)
 
 ## Projenizi kaydetmek istediğiniz klasöre gitmek:
 1-Terminalde projenizi kaydetmek istediğiniz yere gidiniz
@@ -13,6 +20,7 @@
 
 Önreğin, ben masaüstünde kaydetmek için bu komutları kullandım:
 ```
+cd ~
 cd Desktop
 mkdir Bitirme_Projesi
 cd Bitirme_Projesi
@@ -20,15 +28,16 @@ cd Bitirme_Projesi
 
 ## Github deposunu localinize indirmek
 
-Projeyi kaydet istediğiniz klasörün içindeyseniz, aşağıdaki komutu girerek bu github deposunu bilgisayarınıza indirebilirsiniz:
+Projeyi kaydetmek istediğiniz klasörün içindeyseniz, aşağıdaki komutu Gitbash terminaline girerek bu github deposunu bilgisayarınıza indirebilirsiniz:
 ```
 git clone https://github.com/Kodland-Codes/M7L3---SpeechRecognition.git
 ```
 
 ## Sanal ortamı aktifleştirmek ve kütüphaneleri indirmek
 
-Projenizi VSCode'da açınız ve aşağıdaki komutu giriniz
-NOT: `bilgisayarı kapatıp açtığınz zaman da bu komutu her zaman girmeniz gerekiyor`
+Projenizi VSCode'da açınız ve terminalde aşağıdaki komutu giriniz:
+
+`NOT: bilgisayarı kapatıp açtığınz zaman da bu komutu her zaman girmeniz gerekiyor`
 
 ### Mac kullananlar için: 
 ```
