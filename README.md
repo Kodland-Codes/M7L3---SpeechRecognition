@@ -12,7 +12,7 @@ https://git-scm.com/download/linux linkini açıp `Click here to download` linki
 
 Bilgisayarınıza kurarken çıkan pencerelerin hepsine `Next` diyerek devam edin.
 ## Projenizi kaydetmek istediğiniz klasöre gitmek:
-1-Terminalde projenizi kaydetmek istediğiniz yere gidiniz
+1-GitBash terminalinde projenizi kaydetmek istediğiniz yere gidiniz
 İşinize yarayan komutlar
 `cd <klasör_ismi>` sizi klasörün içine alacak
 `ls` Bulunduğunuz klasörün içindeki dosyları gösterecek 
