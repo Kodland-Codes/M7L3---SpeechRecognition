@@ -4,11 +4,11 @@
 1- Bu Github deposunu local'e yani bilgisayarınıza indirebilmek için Git Bash programına ihtiyahıcınız var.
 Bu linke tıklayarak indirebilirsiniz:
 #### Windows kullananlar için:
-https://git-scm.com/download/win
+https://git-scm.com/download/win linkini açıp `Click here to download` linkine tıklayın.
 #### MacOS kullananlar için:
-https://git-scm.com/download/mac
+https://git-scm.com/download/mac linkini açıp `Click here to download` linkine tıklayın.
 #### Linux/Unix kullananlar için:
-[https://git-scm.com/download/mac](https://git-scm.com/download/linux)
+https://git-scm.com/download/linux linkini açıp `Click here to download` linkine tıklayın.
 
 ## Projenizi kaydetmek istediğiniz klasöre gitmek:
 1-Terminalde projenizi kaydetmek istediğiniz yere gidiniz
