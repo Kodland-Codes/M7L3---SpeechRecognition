@@ -56,6 +56,7 @@ Size onaylamanız için bir soru soracak, büyük `A` harfini yazıp enter'e tı
 Şimdi VSCode terminalinde bunları yazıp enter'e tıklayın
 
 ```
+python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 ```
